@@ -23,7 +23,7 @@ README.md        - Project documentation
 ```
 
 ## Project Link
-You can view the project live here: [YouTube Clone](https://app.netlify.com/sites/sasi-youtubeclone/overview)
+You can view the project live here: [YouTube Clone](https://sasi-youtubeclone.netlify.app/)
 
 ## Setup Instructions
 1. Clone the repository:
